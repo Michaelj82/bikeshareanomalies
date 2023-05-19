@@ -9,3 +9,4 @@ Analyzing the data of London Bikeshare system and finding anomalies.
 ### What I learned:
 
 ### Medium Post:
+Almost done written
