@@ -6,7 +6,5 @@ Analyzing the data of London Bikeshare system and finding anomalies.
 * Determine main days that these numbers are anomalies
 * Detail points
 
-### What I learned:
-
 ### Medium Post:
-Almost done written
+https://medium.com/@mjj.yoyogi/bikeshare-data-anomaly-detection-98fef8822834
